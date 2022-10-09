@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: 
+Disallow: /images/
+Disallow: /css/
+Disallow: /js/
+Sitemap: https://blockers.agency/sitemap.xml
