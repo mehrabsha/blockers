@@ -3,4 +3,5 @@ Disallow:
 Disallow: /images/
 Disallow: /css/
 Disallow: /js/
+Disallow: /index.html
 Sitemap: https://blockers.agency/sitemap.xml
