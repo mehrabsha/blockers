@@ -3191,8 +3191,9 @@ input::-moz-focus-inner {
 }
 
 .s-header__logo img {
-  width: 68px;
-  height: 10px;
+  width: 120px;
+  height: auto;
+  display: block;
   margin-bottom: 0;
 }
 
